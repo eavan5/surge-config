@@ -1,0 +1,12 @@
+.pnpm.io
+.faster.buzz
+.hostloc.com
+.v2ex.com
+.icon-icons.com
+.airbnb.design
+.vuejs.org
+.github.io
+.vercel.app
+.tailwindcss.com
+.vueuse.org
+.quasar.dev
