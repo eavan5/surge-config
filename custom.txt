@@ -10,3 +10,5 @@
 .tailwindcss.com
 .vueuse.org
 .quasar.dev
+.prototion.com
+.bigfrontend.dev
