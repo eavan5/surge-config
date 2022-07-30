@@ -12,3 +12,4 @@
 .quasar.dev
 .prototion.com
 .bigfrontend.dev
+.ksria.com
