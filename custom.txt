@@ -17,3 +17,4 @@
 .grid.is
 .thegist.so
 .fruitionsite.com
+.typescriptlang.org
