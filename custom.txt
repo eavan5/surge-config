@@ -18,3 +18,6 @@
 .thegist.so
 .fruitionsite.com
 .typescriptlang.org
+.unsplash.com
+.wakatime.com
+.speedtest.net
