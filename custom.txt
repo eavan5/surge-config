@@ -15,3 +15,5 @@
 .ksria.com
 .ax1x.com
 .grid.is
+.thegist.so
+.fruitionsite.com
