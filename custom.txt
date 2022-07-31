@@ -14,3 +14,4 @@
 .bigfrontend.dev
 .ksria.com
 .ax1x.com
+.grid.is
