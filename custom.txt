@@ -21,3 +21,4 @@
 .unsplash.com
 .wakatime.com
 .speedtest.net
+.js.org
