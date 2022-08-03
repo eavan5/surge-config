@@ -22,3 +22,4 @@
 .wakatime.com
 .speedtest.net
 .js.org
+.v2rayssr.com
