@@ -22,4 +22,5 @@
 .wakatime.com
 .speedtest.net
 .js.org
+transfer.sh
 .v2rayssr.com
