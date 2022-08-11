@@ -24,3 +24,4 @@
 .js.org
 transfer.sh
 .v2rayssr.com
+.element-plus.run
