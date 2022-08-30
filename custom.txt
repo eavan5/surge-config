@@ -27,3 +27,4 @@ transfer.sh
 .element-plus.run
 .1point3acres.com
 .enpass.io
+.duolingo.com
