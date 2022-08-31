@@ -10,3 +10,9 @@
 ```
 https://raw.githubusercontent.com/wumaorg/surge-config/master/custom.txt
 ```
+
+## 多邻国分流
+> 国区阉割了一些功能,比如排行榜好友社交等
+```
+https://raw.githubusercontent.com/wumaorg/surge-config/master/Duoligo.list
+```
