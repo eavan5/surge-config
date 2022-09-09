@@ -28,3 +28,4 @@ transfer.sh
 .1point3acres.com
 .enpass.io
 .duolingo.com
+.rclone.org
