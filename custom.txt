@@ -29,3 +29,12 @@ transfer.sh
 .enpass.io
 .duolingo.com
 .rclone.org
+.pnpm.io
+.tiny.cloud
+.vercel.app
+.vitejs.dev
+.commonjs.org
+.naiveui.com
+.vuetifyjs.com
+.codepen.io
+.rxjs.dev
